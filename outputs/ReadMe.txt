@@ -1,0 +1,1 @@
+This folder is intentionally empty. It is intended as the save location for files produced by Drivers-of-SA-leopard-density workflow.
